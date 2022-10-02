@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/en/n29d69n53d82/santa-maria/" data-label_1="Weather" data-label_2="Santa Maria" data-font="Times New Roman" data-icons="Climacons" data-theme="white_leather" data-shadow="rgba(59, 20, 20, 0)" data-textcolor="#31050b" data-highcolor="#b4394c" data-lowcolor="#8b5356" data-suncolor="#f5be93" data-mooncolor="#ff958d" data-cloudcolor="#e87e93" data-cloudfill="#e87e93" data-raincolor="#ff958d" data-snowcolor="#f5be93" >Weather Santa Maria</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
